@@ -1,6 +1,8 @@
-<p align="center">
-  <img alt="Preview do projeto desenvolvido." src="assets/Logo.svg">
-</p>
+<h1>
+  <p align="center">
+    <img alt="Preview do projeto desenvolvido." src="assets/Logo.svg">
+  </p>
+</h1>
 
 <p align="center">
 Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocketseat.
@@ -32,3 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 👩🏻‍💻 Projeto
 
 Nesse projeto desenvolvemos um portal de notícias para praticar o conhecimento com o Grid!
+
+<hr />
+
+Feito com 💜 by Palloma Gualter :wave:
