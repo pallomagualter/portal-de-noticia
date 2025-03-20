@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src="assets/Logo.svg" width="60%">
+  <img alt="Preview do projeto desenvolvido." src="assets/Logo.svg">
 </p>
 
 <p align="center">
@@ -7,8 +7,9 @@ Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocke
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>
+  <a href="#-tecnologias">Tecnologias</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -28,6 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 
-## Projeto
+## 👩🏻‍💻 Projeto
 
 Nesse projeto desenvolvemos um portal de notícias para praticar o conhecimento com o Grid!
