@@ -35,6 +35,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Nesse projeto desenvolvemos um portal de notícias para praticar o conhecimento com o Grid!
 
-<hr />
 
-Feito com 💜 by Palloma Gualter :wave:
+## 
+<p align="center">
+ Feito com 💜 by Palloma Gualter :wave:
+</p>
