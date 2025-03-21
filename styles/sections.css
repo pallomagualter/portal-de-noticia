@@ -52,7 +52,7 @@ section header {
 
           padding: 24px;
 
-          &:has(.text-lg) {
+          &:has(.text-lg) { /* exist text-lg */
               padding: 12px;
           }
 
